@@ -1,5 +1,5 @@
 
-from nautobot_plugin_example.apps import NautobotPluginExampleConfig
+from nautobot_plugin_example.apps import NautobotGoldenConfig
 
-config = NautobotPluginExampleConfig
+config = NautobotGoldenConfig
 
