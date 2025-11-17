@@ -2,7 +2,7 @@ from nautobot.extras.plugins import PluginConfig
 
 __version__ = "1.0.0"
 
-class NautobotPluginExampleConfig(PluginConfig):
+class NautobotGoldenConfig(PluginConfig):
     __module__ = "nautobot_golden_config"  # Force root package module
     name = "nautobot_golden_config"
     verbose_name = "nautobot_golden_config"
